@@ -98,6 +98,12 @@ CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 西藏卫视,http://221.213.43.82:8888/newlive/live/hls/37/live.m3u8
 新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
 内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
+山东教育卫视,http://zhuji.sdrnwl.cn:9901/tsfile/live/1015_1.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
+新疆卫视,http://php.jdshipin.com:8880/xjtv.php?id=xjws
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
 少儿频道,#genre#
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
@@ -164,7 +170,7 @@ CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
 菏泽影,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd
 
-四川综合,#genre#
+四川地方,#genre#
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
 眉山公共,http://live2.scmstv.cn/ggpd/sd/live.m3u8?zsicd
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd
@@ -176,6 +182,24 @@ CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
 利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+达州公共,http://tv.drs.dzxw.net/channellive/ggpd-dz2.flv
+达州通川,http://tv.drs.dzxw.net/channellive/tcpd-dz3.flv
+达州新闻,http://tv.drs.dzxw.net/channellive/xwzhpd-dz1.flv
+德阳新闻,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
+甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
+广安新闻,http://live1.gatv.com.cn:85/live/XWZH.m3u8
+洪雅新闻,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
+金川新闻,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+康定新闻,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
+泸县新闻,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
+马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8
+眉山公共,http://live2.scmstv.cn/ggpd/sd/live.m3u8
+青神综合,http://lmt.scqstv.com/live1/live1.m3u8
+渠县新闻,http://222.208.224.227:81/hls/cfp2p8m3.m3u8
+松潘新闻,http://live.spccmc.com:90/live/spxwzh.m3u8
+万源新闻,http://live.wanyuannews.com/wytv/hd/live.m3u8
+汶川新闻,http://live.iwcmt.cn:90/live/zhxw.m3u8
+营山,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 
 安徽综合,#genre#
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
@@ -765,14 +789,6 @@ CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 江西,#genre#
 江西新闻,http://php.jdshipin.com:8880/iptv.php?id=jxxw
 江西都市,http://php.jdshipin.com:8880/iptv.php?id=jxds
-
-卫视,#genre#
-山东教育卫视,http://zhuji.sdrnwl.cn:9901/tsfile/live/1015_1.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
-新疆卫视,http://php.jdshipin.com:8880/xjtv.php?id=xjws
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
 安徽,#genre#
 安徽影视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829369249612.m3u8

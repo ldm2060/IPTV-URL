@@ -15,6 +15,9 @@ CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122639
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+CCTV11,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
+CCTV12,http://221.213.43.82:8888/newlive/live/hls/14/live.m3u8
+CCTV12,http://111.59.63.32:9901/tsfile/live/1019_1.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
@@ -40,9 +43,6 @@ CCTV9,http://111.59.63.32:9901/tsfile/live/1016_1.m3u8
 CCTV10,http://221.213.43.82:8888/newlive/live/hls/12/live.m3u8
 CCTV10,http://111.59.63.32:9901/tsfile/live/1017_1.m3u8
 CCTV10,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-CCTV11,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
-CCTV12,http://221.213.43.82:8888/newlive/live/hls/14/live.m3u8
-CCTV12,http://111.59.63.32:9901/tsfile/live/1019_1.m3u8
 CCTV13,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV15,http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
 CCTV15,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
